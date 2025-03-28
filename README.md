@@ -1,6 +1,6 @@
 # xf-note
 
-![Application Screenshot](https://github.com/user-attachments/assets/4f2d8303-2f75-4973-876d-3d8c473f2504)
+![image](https://github.com/user-attachments/assets/dc513a7b-bc81-43f5-90cf-3f7738cfd8b4)
 
 Cross-platform Markdown note-taking application based on Electron, featuring integrated directory tree navigation and real-time preview.
 
